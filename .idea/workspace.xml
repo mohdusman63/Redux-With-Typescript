@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a1fdd30d-6446-42a3-a6a0-c60ac27d2df0" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +25,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="D:\my-app\node_modules\typescript\lib" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -32,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1627447696238</updated>
-      <workItem from="1627447699555" duration="1302000" />
+      <workItem from="1627447699555" duration="2696000" />
     </task>
     <servers />
   </component>
